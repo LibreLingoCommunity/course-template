@@ -2,11 +2,11 @@
 
 Course:
   Language:
-    Name: Spanish
-    IETF BCP 47: es
+    Name: [Target Language extended]
+    IETF BCP 47: [Target Language contracted lowercase]
   For speakers of:
-    Name: English
-    IETF BCP 47: en
+    Name: [Base Language extended]
+    IETF BCP 47: [Base Language contracted lowercase]
   License:
     Name: Attribution-ShareAlike 4.0 International
     Short name: CC BY-SA 4.0
@@ -31,8 +31,8 @@ Course:
     - "¡"
 
 Modules:
-  - basics/
   - introduction/
+  - basics/
   - activities/
 
 Settings:
