@@ -10,9 +10,9 @@
     Full example of the title: LibreLingo-ES-from-EN  
     Full example of the description: Spanish course for english speakers
 
-- [ ] course/course.yaml
+- [ ] course.yaml  
     In this file you should customize the placeholders, and all the zones that you retain to. Pay attention also to the modules section, the order will match the one in which the course will be rendered also in the app.
 
-- [ ] course/[module]/module.yaml
+- [ ] [module]/module.yaml  
     Be sure that there is a match with the files that you put inside this file and the files inside the folder.
     
